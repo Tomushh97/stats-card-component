@@ -1,3 +1,4 @@
 # stats-card-component
 This is my first project from frontend mentor.
-I'll try to do my best.
+Here's preview - https://thirsty-swanson-66475f.netlify.app/
+I tried to do my best.
